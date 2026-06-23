@@ -1,0 +1,6 @@
+{
+  "name": "Rupat Cosmetics",
+  "description": "A modern, elegant, and premium cosmetics e-commerce website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
